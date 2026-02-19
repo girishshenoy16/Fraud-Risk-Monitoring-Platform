@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Streamlit Cache
+.streamlit/
+
+# Model Files
+models/*.pkl
+models/*.joblib
+
+# Output Files
+outputs/
+*.png
+*.jpg
+*.jpeg
+
+# Data Files (if large)
+data/raw/
+data/processed/
+outputs/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+
+# Logs
+*.log
+
+# Environment Variables
+.env
