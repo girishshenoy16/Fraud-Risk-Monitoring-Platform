@@ -119,7 +119,7 @@ Enterprise Monitoring Dashboard
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/girishshenoy16/Fraud-Risk-Monitoring-Platform.git
 cd Fraud-Detection-Analytics
 ```
 
